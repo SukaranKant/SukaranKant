@@ -9,7 +9,7 @@
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sukarankant765@gmail.com)
 
 
-## ⚙️ *Tech Stack I am Familiar With*:
+## ⚙️ *Languages and Tools I am Familiar With*:
 
 <p align="center">
 <br/>
@@ -24,6 +24,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
+<img alt="Dart" src ="https://img.shields.io/badge/Dart-%23563D7C.svg?&style=for-the-badge&logo=dart&logoColor=white" style="margin:2px;"/>
 <br/>
 </p>
 
