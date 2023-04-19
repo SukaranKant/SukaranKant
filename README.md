@@ -4,7 +4,7 @@
 
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sukaran-kant-690a17204/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sukarankant765/)
 [<img src="https://img.shields.io/badge/twitter-white.svg?&style=for-the-badge&logo=twitter&logoColor=%3A2F2F">](https://twitter.com/sukaran_kant)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sukarankant765@gmail.com)
 
