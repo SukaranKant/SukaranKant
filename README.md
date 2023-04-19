@@ -30,8 +30,8 @@
 
 ## 🏆 *Github Status*
 
-<p align="center" >
-  <img row=1 column=1 height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=SukaranKant&show_icons=true&locale=en&layout=compact&theme=monokai" alt="SukaranKant" />
+<p>
+  <img row=1 column=2 height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=SukaranKant&show_icons=true&locale=en&layout=compact&theme=monokai" alt="SukaranKant" />
   <img row=1 column=2 height=160 src="https://github-readme-stats.vercel.app/api?username=SukaranKant&show_icons=true&locale=en&theme=monokai" alt="SukaranKant" />
 </p>
 
