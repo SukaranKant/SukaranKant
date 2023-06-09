@@ -31,8 +31,8 @@
 ## 🏆 *Github Status*
 
 <p>
-  <img row=1 column=2 height=160 src="https://github-readme-stats.vercel.app/api/top-langs?username=SukaranKant&show_icons=true&locale=en&layout=compact&theme=monokai" alt="SukaranKant" />
-  <img row=1 column=2 height=160 src="https://github-readme-stats.vercel.app/api?username=SukaranKant&show_icons=true&locale=en&theme=monokai" alt="SukaranKant" />
+  <img row=1 column=2 height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=SukaranKant&show_icons=true&locale=en&layout=compact&theme=monokai" alt="SukaranKant" />
+  <img row=1 column=2 height=160 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SukaranKant&show_icons=true&locale=en&theme=monokai" alt="SukaranKant" />
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SukaranKant&row=1&column=8&no-frame=true&theme=monokai" alt="SukaranKant" /></a> </p>
